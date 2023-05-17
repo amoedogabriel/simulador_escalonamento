@@ -21,7 +21,7 @@ public class Main {
     static int xr, yr;
     //janela principal
     static JFrame jprincipal;
-    //tabela em que os processos são inceridos
+    //tabela em que os processos são incerido
     static JTable table;
     //modelo de table
     static DefaultTableModel model;
